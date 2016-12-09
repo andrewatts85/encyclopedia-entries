@@ -4,6 +4,6 @@ Entries for https://encyclopedia.moderndeveloper.com
 
 ### Entries
 
-[\<kbd\>](/encyclopedia-entries/kbd.md)  
-[margin-bottom](/encyclopedia-entries/margin-bottom.md)  
-[window.location](/encyclopedia-entries/window.location.md)
+[\<kbd\>](https://github.com/andrewatts85/encyclopedia-entries/blob/master/kbd.md)  
+[margin-bottom](https://github.com/andrewatts85/encyclopedia-entries/blob/master/margin-bottom.md)  
+[window.location](https://github.com/andrewatts85/encyclopedia-entries/blob/master/window.location.md)
