@@ -2,7 +2,7 @@
 
 Entries for https://encyclopedia.moderndeveloper.com
 
-### Entries
+### [Entries](https://github.com/andrewatts85/encyclopedia-entries)
 
 [\<kbd\>](https://github.com/andrewatts85/encyclopedia-entries/blob/master/kbd.md)  
 [margin-bottom](https://github.com/andrewatts85/encyclopedia-entries/blob/master/margin-bottom.md)  
